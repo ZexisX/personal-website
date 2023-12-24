@@ -60,7 +60,7 @@ export default function MyComponent() {
         </li>
       </ul>
 
-      <footer className="w-full text-center p-4">
+      <footer className="w-full text-center p-4 fixed bottom-0">
     <p className="text-[#AEB2B6] bg-gradient-to-r from-gray-500 via-gray-600 to-white text-transparent bg-clip-text">
       <span className="text-sm">Made by</span>
       <br />
