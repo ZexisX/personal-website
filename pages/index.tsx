@@ -60,15 +60,15 @@ export default function MyComponent() {
         </li>
       </ul>
 
-      <footer className="absolute bottom-0 w-full text-center p-4">
-        <p className="text-[#AEB2B6] bg-gradient-to-r from-gray-500 via-gray-600 to-white text-transparent bg-clip-text">
-          <span className="text-sm">Made by</span>
-          <br />
-          <span className="font-aquire bg-gradient-to-r from-gray-500 via-gray-600 to-white text-transparent bg-clip-text">
-            Le Vinh Khang
-          </span>
-        </p>
-      </footer>
+      <footer className="w-full text-center p-4">
+    <p className="text-[#AEB2B6] bg-gradient-to-r from-gray-500 via-gray-600 to-white text-transparent bg-clip-text">
+      <span className="text-sm">Made by</span>
+      <br />
+      <span className="font-aquire bg-gradient-to-r from-gray-500 via-gray-600 to-white text-transparent bg-clip-text">
+        Le Vinh Khang
+      </span>
+    </p>
+  </footer>
 
       <style jsx global>{`
         @keyframes fadeIn {
