@@ -25,3 +25,16 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.link-with-underline:hover {
+  text-decoration: underline;
+}
+@font-face {
+  font-family: 'Aquire';
+  src: url('/AquireBold-8Ma60.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-aquire {
+  font-family: 'Aquire', sans-serif;
+}
