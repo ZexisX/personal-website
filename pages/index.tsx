@@ -30,7 +30,7 @@ export default function MyComponent() {
       </h2>
       <hr className="border-gray-700 w-full max-w-lg mb-8" />
       <p className="mb-8 text-center max-w-lg text-[#AEB2B6]">
-      A student hailing from Vietnam 🇻🇳 and residing in the vibrant city of Ho Chi Minh 🌆. Immersed in the dynamic realm of web technology 💻, his blog, hosted on Vercel, becomes a canvas for documenting his journey 🎒. Despite occasional oversight, his passion for learning web technology fuels his creative writing endeavors ✍️.
+      A student hailing from Vietnam 🇻🇳 and residing in the vibrant city of Ho Chi Minh 🌆. Immersed in the dynamic realm of web technology 💻, his profile, hosted on Vercel, becomes a canvas for documenting his journey 🎒. Despite occasional oversight, his passion for learning web technology fuels his creative writing endeavors ✍️.
       </p>
       <hr className="border-gray-700 w-full max-w-lg mb-8" />
       <ul className="list-none space-y-2 text-center">
