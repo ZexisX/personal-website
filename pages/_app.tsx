@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: AppProps) {
         {/* Meta tags */}
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="He’s a student from Vietnam, living in Ho Chi Minh City. the blog for documentation about his programming 🎒 journey, running on Amazon Hosting, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing." />
+        <meta name="description" content="A student hailing from Vietnam 🇻🇳 and residing in the vibrant city of Ho Chi Minh 🌆. Immersed in the dynamic realm of web technology 💻, his blog, hosted on Vercel, becomes a canvas for documenting his journey 🎒. Despite occasional oversight, his passion for learning web technology fuels his creative writing endeavors ✍️." />
         {/* Add more meta tags as needed */}
 
         {/* Favicon (example assuming you have a favicon.ico file in public directory) */}
