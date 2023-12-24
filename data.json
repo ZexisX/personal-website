@@ -1,0 +1,29 @@
+{
+    "name": "Le Vinh Khang",
+    "occupation": "Developer",
+    "bio": "He’s a student from Vietnam, living in Ho Chi Minh City. The blog is documentation about his programming journey, running on Amazon Hosting. He loves learning web technology, but he often forgets, and that's why he's writing.",
+    "contacts": {
+      "github": {
+        "link": "https://github.com/levinhkhangzz",
+        "username": "@levinhkhangzz"
+      },
+      "email": {
+        "link": "mailto:levinhkhang631@gmail.com",
+        "address": "levinhkhang631@gmail.com"
+      },
+      "twitter": {
+        "link": "https://twitter.com/aedotris",
+        "username": "@aedotris"
+      },
+      "instagram": {
+        "link": "https://instagram.com/williamcachamwri",
+        "username": "@williamcachamwri"
+      }
+    },
+    "footer": {
+      "madeByText": "Made by",
+      "author": "Le Vinh Khang",
+      "fontClass": "font-aquire"
+    }
+  }
+  
