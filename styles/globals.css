@@ -68,3 +68,19 @@ background: linear-gradient(90deg, #808080, #000000, #Ffffff);
     background-position: 0% 50%;
   }
 }
+.hover-scale {
+  transition: transform 0.3s ease-in-out;
+}
+
+.hover-scale:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+
+.arrow {
+  transition: transform 0.3s ease-in-out;
+}
+
+.text-indigo-600:hover .arrow {
+  transform: translateX(5px);
+}
