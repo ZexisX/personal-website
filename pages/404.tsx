@@ -24,13 +24,13 @@ export default function Component() {
           </span>
         </h2>
         <p className="mt-2 text-base text-gray-500 dark:text-gray-400">
-          It seems like we lost the page you're looking for in the quantum realm. Maybe try searching for it again or navigate back to the homepage.
+          It seems like we lost the page you&apos;re looking for in the quantum realm. Maybe try searching for it again or navigate back to the homepage.
         </p>
         <div className="mt-6">
           <Link href="/" passHref>
             <span className="text-base font-medium text-indigo-600 hover:text-indigo-500 dark:text-indigo-300 dark:hover:text-indigo-200">
               Go back home
-              <span aria-hidden="true"> →</span>
+              <span aria-hidden="true"> &rarr;</span>
             </span>
           </Link>
         </div>
